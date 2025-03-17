@@ -21,7 +21,7 @@ This is a **PCB design** for an **AC to DC converter**, created using **KiCad**.
 ## 🖼️ Preview Images  
 | Schematic | PCB Layout | 3D Render |
 |-----------|------------|------------|
-| ![Schematic]([schematic.png](schematic.png)) | ![PCB](Images/pcb_layout.png) | ![3D](Images/3d_render.png) |
+| ![Schematic](Images/schematic.png) | ![PCB](Images/pcb_layout.png) | ![3D](Images/3d_render.png) |
 
 ## 🔧 How to Use  
 1️⃣ **Open the KiCad files** in `/Schematics/` and `/PCB_Design/`.  
