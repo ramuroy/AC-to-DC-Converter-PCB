@@ -30,7 +30,7 @@ This is a **PCB design** for an **AC to DC converter**, created using **KiCad**.
 
 ## 🔗 Resources  
 - 📺 **Ampnics Tutorial**: [YouTube Playlist](https://youtube.com/playlist?list=PLxgq6Jtu7shQPHqYjKUVa28CmktTzHDLp&si=2TdaJywcDumlzVk_)
-- ⚡ **Project Discussion on LinkedIn**: [Insert LinkedIn post link]  
+- ⚡ **Project Discussion on LinkedIn**: [LinkedIn](wait)
 
 ## 📜 License  
 This project is licensed under the **MIT License** – feel free to use and modify it!
