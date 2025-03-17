@@ -29,7 +29,7 @@ This is a **PCB design** for an **AC to DC converter**, created using **KiCad**.
 3️⃣ **Use Gerber files** in `/Gerber_Files/` to order a PCB from manufacturers.  
 
 ## 🔗 Resources  
-- 📺 **Ampnics Tutorial**: [Insert YouTube playlist link]  
+- 📺 **Ampnics Tutorial**: [https://youtube.com/playlist?list=PLxgq6Jtu7shQPHqYjKUVa28CmktTzHDLp&si=2TdaJywcDumlzVk_]  
 - ⚡ **Project Discussion on LinkedIn**: [Insert LinkedIn post link]  
 
 ## 📜 License  
