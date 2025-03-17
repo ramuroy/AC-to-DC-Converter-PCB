@@ -28,9 +28,9 @@ This is a **PCB design** for an **AC to DC converter**, created using **KiCad**.
 2️⃣ **Modify the design** if needed and generate Gerber files for fabrication.  
 3️⃣ **Use Gerber files** in `/Gerber_Files/` to order a PCB from manufacturers.  
 
-## 🔗 Links  
-- 📺 **Ampnics Tutorial**: [YouTube Playlist](https://youtube.com/playlist?list=PLxgq6Jtu7shQPHqYjKUVa28CmktTzHDLp&si=2TdaJywcDumlzVk_)
+## 🔗 Links 
 - ⚡ **Project Discussion on LinkedIn**: [LinkedIn](wait)
+- 📺 **Ampnics Tutorial**: [YouTube Playlist](https://youtube.com/playlist?list=PLxgq6Jtu7shQPHqYjKUVa28CmktTzHDLp&si=2TdaJywcDumlzVk_)
 
 ## 📜 License  
 This project is licensed under the **MIT License** – feel free to use and modify it!
